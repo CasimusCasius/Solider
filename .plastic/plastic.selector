@@ -1,0 +1,4 @@
+repository "Soldiers@Komp_Pro@cloud"
+  path "/"
+    smartbranch "/main" 
+     
